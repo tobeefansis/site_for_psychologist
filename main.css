@@ -1,8 +1,10 @@
 body{
     padding-bottom: 60px;
-    font-family: Philosopher cursive;
 }
-
+.good-text{
+    font-family: Comfortaa;
+    
+}
 .margin20{
     margin-top: 20px;
     margin-bottom: 20px;
