@@ -1,0 +1,36 @@
+body{
+    padding-bottom: 60px;
+}
+
+.margin20{
+    margin-top: 20px;
+    margin-bottom: 20px;
+        
+}
+.background {
+  background-color: #9BC1BC;
+}
+.frontground {
+  background-color: RGBA(230, 235, 224,var(--bs-bg-opacity,1))!important;
+  
+}
+.active-button{
+     background-color: RGBA(237, 106, 90,var(--bs-bg-opacity,1))!important;
+}
+.notactive-button{
+     background-color: RGBA(230, 235, 224,var(--bs-bg-opacity,1))!important;
+}
+.portret{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.slider{
+    margin-bottom: 20px;
+}
+.picher{
+    height: 600px;
+    width: auto;
+    align-self: center;
+}
